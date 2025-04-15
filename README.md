@@ -1,1 +1,2 @@
 # Recursion
+This repository houses a JavaScript file containing a few lines of code within a function that runs recursively to execute a task. This micro project is to test my knowledge of recursion and its use. 
